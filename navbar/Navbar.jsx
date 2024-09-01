@@ -6,7 +6,10 @@ function Navbar() {
         <li>HOME</li>
         <li>Features</li>
         <li>Product</li>
+        <li>login</li>
       </ul>
     </nav>
   );
 }
+
+export default Navbar;
